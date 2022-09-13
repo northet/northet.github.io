@@ -1,6 +1,6 @@
 # 文章3
 
-![](https://imgur.com/IKCycgq)
+![](/images/0043.png)
 
 妈身上有一种怎样都能活下去的生命力。
 
