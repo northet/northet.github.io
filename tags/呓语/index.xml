@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>呓语 - Tag - 狂奔夜市</title>
-        <link>https://northet.github.io/tags/%E5%91%93%E8%AF%AD/</link>
+        <link>/tags/%E5%91%93%E8%AF%AD/</link>
         <description>呓语 - Tag - 狂奔夜市</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 13 Sep 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://northet.github.io/tags/%E5%91%93%E8%AF%AD/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 13 Sep 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="/tags/%E5%91%93%E8%AF%AD/" rel="self" type="application/rss+xml" /><item>
     <title>文章</title>
-    <link>https://northet.github.io/posts/%E6%96%87%E7%AB%A0/</link>
+    <link>/posts/%E6%96%87%E7%AB%A0/</link>
     <pubDate>Tue, 13 Sep 2022 00:00:00 &#43;0000</pubDate>
     <author>蛋白</author>
-    <guid>https://northet.github.io/posts/%E6%96%87%E7%AB%A0/</guid>
+    <guid>/posts/%E6%96%87%E7%AB%A0/</guid>
     <description><![CDATA[我表达的时候确实不是很讲究准确性。因为从小到大，我习惯用的那套说话方式，就是夸张、扭曲、颠倒黑白、故意的词不达意。我意识到扮演一个傻逼能给我]]></description>
 </item>
 </channel>

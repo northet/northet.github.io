@@ -2,15 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://northet.github.io/categories/2022/</loc><lastmod>2022-09-13T19:54:21&#43;08:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://northet.github.io/categories/</loc><lastmod>2022-09-13T19:54:21&#43;08:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://northet.github.io/posts/</loc><lastmod>2022-09-13T19:54:21&#43;08:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://northet.github.io/tags/</loc><lastmod>2022-09-13T19:54:21&#43;08:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://northet.github.io/posts/%E6%96%87%E7%AB%A02/</loc><lastmod>2022-09-13T19:54:21&#43;08:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://northet.github.io/tags/%E6%97%A5%E5%B8%B8/</loc><lastmod>2022-09-13T19:54:21&#43;08:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://northet.github.io/categories/%E6%97%A5%E8%AE%B0/</loc><lastmod>2022-09-13T19:54:21&#43;08:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://northet.github.io/</loc><lastmod>2022-09-13T19:54:21&#43;08:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://northet.github.io/tags/%E5%91%93%E8%AF%AD/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://northet.github.io/posts/%E6%96%87%E7%AB%A0/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://northet.github.io/posts/%E6%96%87%E7%AB%A03/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://northet.github.io/posts/%E6%96%87%E7%AB%A04/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>/categories/2022/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
+            <loc>/categories/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
+            <loc>/posts/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
+            <loc>/tags/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
+            <loc>/tags/%E5%91%93%E8%AF%AD/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
+            <loc>/posts/%E6%96%87%E7%AB%A0/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
+            <loc>/posts/%E6%96%87%E7%AB%A04/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
+            <loc>/tags/%E6%97%A5%E5%B8%B8/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
+            <loc>/categories/%E6%97%A5%E8%AE%B0/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
+            <loc>/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url></urlset>
