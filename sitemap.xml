@@ -2,6 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>/about/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
             <loc>/categories/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
             <loc>/posts/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
             <loc>/tags/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
