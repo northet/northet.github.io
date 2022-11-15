@@ -2,24 +2,24 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/about/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/categories/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/posts/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/tags/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/tags/%E4%B8%8D%E8%89%AF/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/posts/%E4%B8%8D%E8%89%AF10/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/posts/%E4%B8%8D%E8%89%AF11/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/posts/%E4%B8%8D%E8%89%AF1/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/posts/%E4%B8%8D%E8%89%AF2/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/posts/%E4%B8%8D%E8%89%AF3/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/posts/%E4%B8%8D%E8%89%AF4/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/posts/%E4%B8%8D%E8%89%AF5/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/posts/%E4%B8%8D%E8%89%AF6/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/posts/%E4%B8%8D%E8%89%AF7/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/posts/%E4%B8%8D%E8%89%AF8/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/posts/%E4%B8%8D%E8%89%AF9/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/posts/%E4%B8%8D%E8%89%AF%E6%B1%87%E6%80%BB/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/tags/%E6%B1%87%E6%80%BB/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/categories/%E6%BC%AB%E7%94%BB/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/tags/%E8%80%BD%E7%BE%8E/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>/about/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/posts/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/%E4%B8%8D%E8%89%AF/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/posts/%E4%B8%8D%E8%89%AF10/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/posts/%E4%B8%8D%E8%89%AF11/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/posts/%E4%B8%8D%E8%89%AF1/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/posts/%E4%B8%8D%E8%89%AF2/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/posts/%E4%B8%8D%E8%89%AF3/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/posts/%E4%B8%8D%E8%89%AF4/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/posts/%E4%B8%8D%E8%89%AF5/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/posts/%E4%B8%8D%E8%89%AF6/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/posts/%E4%B8%8D%E8%89%AF7/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/posts/%E4%B8%8D%E8%89%AF8/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/posts/%E4%B8%8D%E8%89%AF9/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/posts/%E4%B8%8D%E8%89%AF%E6%B1%87%E6%80%BB/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/%E6%B1%87%E6%80%BB/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/%E6%BC%AB%E7%94%BB/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/%E8%80%BD%E7%BE%8E/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url></urlset>
