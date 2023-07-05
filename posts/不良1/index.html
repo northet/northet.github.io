@@ -98,7 +98,17 @@
     </div>
     <div class="search-dropdown mobile">
         <div id="search-dropdown-mobile"></div>
-    </div><main class="main">
+    </div><script>
+    (function(){
+        if(''){
+            if (prompt('ÇëÊäÈëÎÄÕÂÃÜÂë') !== ''){
+                alert('ÃÜÂë´íÎó£¡');
+                history.back();
+            }
+        }
+    })();
+</script>
+<main class="main">
                 <div class="container"><div class="toc" id="toc-auto">
             <h2 class="toc-title">Contents</h2>
             <div class="toc-content" id="toc-content-auto"></div>

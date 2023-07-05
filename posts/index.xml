@@ -3,7 +3,15 @@
         <title>All Posts - 蛋白白的博客</title>
         <link>/posts/</link>
         <description>All Posts | 蛋白白的博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 14 Sep 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 05 Jul 2023 14:15:00 &#43;0900</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My Post</title>
+    <link>/posts/my-post/</link>
+    <pubDate>Wed, 05 Jul 2023 14:15:00 &#43;0900</pubDate>
+    <author>蛋白</author>
+    <guid>/posts/my-post/</guid>
+    <description><![CDATA[22234tgtnfhtrjknrftbbvjrfukjbhujireuogouiduhgvurugreh 43534554535434vdsfvdfvdvdsfv bfdbfsdvsd]]></description>
+</item>
+<item>
     <title>四格|不良第10话</title>
     <link>/posts/%E4%B8%8D%E8%89%AF10/</link>
     <pubDate>Wed, 14 Sep 2022 00:00:00 &#43;0000</pubDate>
@@ -74,14 +82,6 @@
     <author>蛋白</author>
     <guid>/posts/%E4%B8%8D%E8%89%AF7/</guid>
     <description><![CDATA[副cp，当时真打算画的，从初中就开始构思了这对]]></description>
-</item>
-<item>
-    <title>四格|不良第8话</title>
-    <link>/posts/%E4%B8%8D%E8%89%AF8/</link>
-    <pubDate>Wed, 14 Sep 2022 00:00:00 &#43;0000</pubDate>
-    <author>蛋白</author>
-    <guid>/posts/%E4%B8%8D%E8%89%AF8/</guid>
-    <description><![CDATA[日常]]></description>
 </item>
 </channel>
 </rss>
