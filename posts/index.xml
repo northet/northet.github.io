@@ -3,15 +3,7 @@
         <title>All Posts - 蛋白白的博客</title>
         <link>/posts/</link>
         <description>All Posts | 蛋白白的博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 05 Jul 2023 14:15:00 &#43;0900</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>My Post</title>
-    <link>/posts/my-post/</link>
-    <pubDate>Wed, 05 Jul 2023 14:15:00 &#43;0900</pubDate>
-    <author>蛋白</author>
-    <guid>/posts/my-post/</guid>
-    <description><![CDATA[22234tgtnfhtrjknrftbbvjrfukjbhujireuogouiduhgvurugreh 43534554535434vdsfvdfvdvdsfv bfdbfsdvsd摘52345432532]]></description>
-</item>
-<item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 04 Jul 2023 23:22:48 &#43;0900</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
     <title>嘘，没开完的风乐车</title>
     <link>/posts/%E5%98%98%E6%B2%A1%E5%BC%80%E5%AE%8C%E7%9A%84%E9%A3%8E%E4%B9%90%E8%BD%A6/</link>
     <pubDate>Tue, 04 Jul 2023 23:22:48 &#43;0900</pubDate>
@@ -82,6 +74,14 @@
     <author>蛋白</author>
     <guid>/posts/%E4%B8%8D%E8%89%AF6/</guid>
     <description><![CDATA[开始看不懂在讲什么了]]></description>
+</item>
+<item>
+    <title>四格|不良第7话</title>
+    <link>/posts/%E4%B8%8D%E8%89%AF7/</link>
+    <pubDate>Wed, 14 Sep 2022 00:00:00 &#43;0000</pubDate>
+    <author>蛋白</author>
+    <guid>/posts/%E4%B8%8D%E8%89%AF7/</guid>
+    <description><![CDATA[副cp，当时真打算画的，从初中就开始构思了这对]]></description>
 </item>
 </channel>
 </rss>
