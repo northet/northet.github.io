@@ -3,11 +3,14 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
             <loc>/about/</loc><lastmod>2022-09-13T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/</loc><lastmod>2023-07-04T23:22:48&#43;09:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
             <loc>/posts/</loc><lastmod>2023-07-04T23:22:48&#43;09:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
+            <loc>/tags/</loc><lastmod>2023-07-04T23:22:48&#43;09:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
+            <loc>/tags/%E5%90%B9%E6%8B%82/</loc><lastmod>2023-07-04T23:22:48&#43;09:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
             <loc>/posts/%E5%98%98%E6%B2%A1%E5%BC%80%E5%AE%8C%E7%9A%84%E9%A3%8E%E4%B9%90%E8%BD%A6/</loc><lastmod>2023-07-04T23:22:48&#43;09:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
+            <loc>/categories/%E6%BC%AB%E7%94%BB/</loc><lastmod>2023-07-04T23:22:48&#43;09:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
+            <loc>/tags/%E8%80%BD%E7%BE%8E/</loc><lastmod>2023-07-04T23:22:48&#43;09:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
             <loc>/</loc><lastmod>2023-07-04T23:22:48&#43;09:00</lastmod><changefreq>Weekly</changefreq><priority>1</priority></url><url>
-            <loc>/categories/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/tags/%E4%B8%8D%E8%89%AF/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/posts/%E4%B8%8D%E8%89%AF10/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/posts/%E4%B8%8D%E8%89%AF11/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
@@ -21,6 +24,4 @@
             <loc>/posts/%E4%B8%8D%E8%89%AF8/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/posts/%E4%B8%8D%E8%89%AF9/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/posts/%E4%B8%8D%E8%89%AF%E6%B1%87%E6%80%BB/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/%E6%B1%87%E6%80%BB/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/%E6%BC%AB%E7%94%BB/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/%E8%80%BD%E7%BE%8E/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>/tags/%E6%B1%87%E6%80%BB/</loc><lastmod>2022-09-14T00:00:00&#43;00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority></url></urlset>
